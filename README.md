@@ -1,5 +1,5 @@
 <h1 align="center">Cobra 🐍🐍🐍 Python Animation</h1>
-Cobra Python Animation
+<h2 align="center">Cobra Python Animation</h2>
 
 Table of Contents
 Introduction
