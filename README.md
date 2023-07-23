@@ -1,4 +1,4 @@
-Cobra 🐍🐍🐍 Python Animation
+<h1 align="center">Cobra 🐍🐍🐍 Python Animation</h1>
 Cobra Python Animation
 
 Table of Contents
