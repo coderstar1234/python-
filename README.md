@@ -4,7 +4,7 @@
 <h1 align="Center">Table of Contents:-</h1>
 
 - Introduction
-Demo
+- Demo
 Features
 Requirements
 Installation
