@@ -5,7 +5,7 @@
 
 - Introduction
 - Demo
-Features
+- Features
 Requirements
 Installation
 Usage
