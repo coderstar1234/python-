@@ -6,7 +6,7 @@
 - Introduction
 - Demo
 - Features
-Requirements
+- Requirements
 Installation
 Usage
 Contributing
