@@ -7,7 +7,7 @@
 - Demo
 - Features
 - Requirements
-Installation
+- Installation
 Usage
 Contributing
 License
