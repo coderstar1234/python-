@@ -8,7 +8,7 @@
 - Features
 - Requirements
 - Installation
-Usage
+- Usage
 Contributing
 License
 Introduction
