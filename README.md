@@ -21,7 +21,7 @@
 Demo
 [Insert GIF or link to a video that demonstrates the Cobra Python Animation in action.]
 
-Features
+<h1 align="center"><i>Features:-</i></h1>
 🐍 Smooth and lifelike animation of a Cobra snake.
 🎵 Background music and sound effects for an immersive experience.
 🎮 Interactive controls to change the movement and behavior of the snake.
