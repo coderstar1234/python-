@@ -55,7 +55,7 @@ Push to the branch (git push origin feature/your_feature)
 Open a pull request
 Please ensure that your pull request follows the project's coding conventions and has a detailed description of the changes made.
 
-License
+<h1 align="center"><i>License:-</i></h1>
 [Specify the license used for the project]
 
 arduino
