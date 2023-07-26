@@ -45,7 +45,7 @@ Example:
 bash
 Copy code
 $ python cobra_animation.py
-Contributing
+<h1 align="center"><i>Contributing:-</i></h1>
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository
