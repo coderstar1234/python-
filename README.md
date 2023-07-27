@@ -26,6 +26,7 @@ Demo
 🎵 Background music and sound effects for an immersive experience.
 🎮 Interactive controls to change the movement and behavior of the snake.
 🌟 Customizable settings for the animation speed and colors.
+<hr>
 <h1 align="center"><i>Requirements:-</i></h1>
 Python [version]: [Provide the minimum required Python version]
 [Dependency 1]: [Specify any additional dependencies]
