@@ -31,6 +31,7 @@ Demo
 Python [version]: [Provide the minimum required Python version]
 [Dependency 1]: [Specify any additional dependencies]
 [Dependency 2]: [Specify any additional dependencies]
+<hr>
 Installation
 [Step 1]: [Provide instructions for step 1]
 [Step 2]: [Provide instructions for step 2]
