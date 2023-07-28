@@ -67,6 +67,7 @@ You can include the license text here.
 
 - If you have any questions or suggestions, feel free to contact [your email address].
 <hr>
+
 - Thank you for trying out the Cobra 🐍🐍🐍 Python Animation! We hope you enjoy the mesmerizing snake animation and have a great time exploring its features.
 <hr>
  <h1 align="center"><i>Happy animating!:-</i></h1>
