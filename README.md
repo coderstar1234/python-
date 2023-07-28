@@ -23,7 +23,7 @@ Demo
 
 <h1 align="center"><i>Features:-</i></h1>
 🐍 Smooth and lifelike animation of a Cobra snake.<br>
-🎵 Background music and sound effects for an immersive experience.
+🎵 Background music and sound effects for an immersive experience.<br>
 🎮 Interactive controls to change the movement and behavior of the snake.
 🌟 Customizable settings for the animation speed and colors.
 <hr>
