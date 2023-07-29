@@ -44,7 +44,7 @@ Python [version]: [Provide the minimum required Python version]
 [Step 3]: [Explain how to use the program - Step 3]
 [Step 4]: [Explain how to use the program - Step 4]
 <hr>
-<h1 align="center"><i>IExample:-</i></h1>
+<h1 align="center"><i>Example:-</i></h1>
 
 bash
 Copy code
