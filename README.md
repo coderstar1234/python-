@@ -43,6 +43,7 @@ Python [version]: [Provide the minimum required Python version]
 [Step 2]: [Explain how to use the program - Step 2]
 [Step 3]: [Explain how to use the program - Step 3]
 [Step 4]: [Explain how to use the program - Step 4]
+<hr>
 Example:
 
 bash
