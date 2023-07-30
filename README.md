@@ -31,6 +31,7 @@ Demo
 Python [version]: [Provide the minimum required Python version]<br>
 [Dependency 1]: [Specify any additional dependencies]<br>
 [Dependency 2]: [Specify any additional dependencies]
+
 <hr>
 <h1 align="center"><i>Installation:-</i></h1>
 [Step 1]: [Provide instructions for step 1]
