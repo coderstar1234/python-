@@ -66,6 +66,7 @@ Please ensure that your pull request follows the project's coding conventions an
 arduino
 Copy code
 You can include the license text here.
+<hr>
 <h1 align="center"><i>Contact:-</i></h1>
 
 - If you have any questions or suggestions, feel free to contact [your email address].
