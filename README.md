@@ -64,7 +64,8 @@ Please ensure that your pull request follows the project's coding conventions an
 
 - [Specify the license used for the project]
 
-arduino
+<h3 align="center"><i>arduino:-</i></h3>
+
 Copy code
 You can include the license text here.
 <hr>
