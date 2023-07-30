@@ -28,7 +28,7 @@ Demo
 🌟 Customizable settings for the animation speed and colors.<br>
 <hr>
 <h1 align="center"><i>Requirements:-</i></h1>
-Python [version]: [Provide the minimum required Python version]
+Python [version]: [Provide the minimum required Python version]<br>
 [Dependency 1]: [Specify any additional dependencies]
 [Dependency 2]: [Specify any additional dependencies]
 <hr>
