@@ -60,7 +60,8 @@ Commit your changes (git commit -m 'Add some feature')<br>
 Push to the branch (git push origin feature/your_feature)
 <hr>
 <h1 align="center"><i>Open a pull request:-</i></h1>
-Please ensure that your pull request follows the project's coding conventions and has a detailed description of the changes made.
+
+- Please ensure that your pull request follows the project's coding conventions and has a detailed description of the changes made.
 <hr>
 <h1 align="center"><i>License:-</i></h1>
 
