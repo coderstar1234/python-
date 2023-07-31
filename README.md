@@ -56,7 +56,7 @@ $ python cobra_animation.py
 <hr>
 <h1 align="center"><i>Fork the repository:-</i></h1>
 Create a new branch (git checkout -b feature/your_feature)<br>
-Commit your changes (git commit -m 'Add some feature')
+Commit your changes (git commit -m 'Add some feature')<br>
 Push to the branch (git push origin feature/your_feature)
 Open a pull request
 Please ensure that your pull request follows the project's coding conventions and has a detailed description of the changes made.
