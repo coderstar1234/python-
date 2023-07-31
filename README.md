@@ -40,9 +40,9 @@ Python [version]: [Provide the minimum required Python version]<br>
 [Step 4]: [Provide instructions for step 4]
 <hr>
 <h1 align="center"><i>Usage:-</i></h1>
-[Step 1]: [Explain how to use the program - Step 1]
-[Step 2]: [Explain how to use the program - Step 2]
-[Step 3]: [Explain how to use the program - Step 3]
+[Step 1]: [Explain how to use the program - Step 1]w<br>
+[Step 2]: [Explain how to use the program - Step 2]<br>
+[Step 3]: [Explain how to use the program - Step 3]<br>
 [Step 4]: [Explain how to use the program - Step 4]
 <hr>
 <h1 align="center"><i>Example:-</i></h1>
