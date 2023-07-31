@@ -55,7 +55,7 @@ $ python cobra_animation.py
 - Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 <hr>
 <h1 align="center"><i>Fork the repository:-</i></h1>
-Create a new branch (git checkout -b feature/your_feature)
+Create a new branch (git checkout -b feature/your_feature)<br>
 Commit your changes (git commit -m 'Add some feature')
 Push to the branch (git push origin feature/your_feature)
 Open a pull request
