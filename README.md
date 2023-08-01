@@ -35,7 +35,7 @@ Python [version]: [Provide the minimum required Python version]<br>
 <hr>
 <h1 align="center"><i>Installation:-</i></h1>
 - [Step 1]: [Provide instructions for step 1]
-[Step 2]: [Provide instructions for step 2]
+- [Step 2]: [Provide instructions for step 2]
 [Step 3]: [Provide instructions for step 3]
 [Step 4]: [Provide instructions for step 4]
 <hr>
