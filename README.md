@@ -67,7 +67,7 @@ Push to the branch (git push origin feature/your_feature)
 
 - [Specify the license used for the project]
 
-<h3 align="center"><i>arduino:-</i></h3>
+<h3 align="center"><i>arduino💫:-</i></h3>
 
 Copy code
 You can include the license text here.
