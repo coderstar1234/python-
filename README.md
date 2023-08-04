@@ -1,5 +1,5 @@
 <h1 align="center"><i>Cobra 🐍🐍🐍 Python Animation:-</i></h1>
-<h2 align="center"><i>Cobra Python Animation:-</i></h2>
+<h2 align="center"><i>Cobra Python Animation:🐍🐍-</i></h2>
 
 <h1 align="Center">Table of Contents📑:-</h1>
 
