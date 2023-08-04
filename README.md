@@ -65,7 +65,7 @@ Push to the branch (git push origin feature/your_feature)
 
 - Please ensure that your pull request follows the project's coding conventions and has a detailed description of the changes made.
 <hr>
-<h1 align="center"><i>License:-</i></h1>
+<h1 align="center"><i>License🗂️:-</i></h1>
 
 - [Specify the license used for the project]
 
