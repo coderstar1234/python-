@@ -41,7 +41,7 @@ Python [version]: [Provide the minimum required Python version]<br>
 - [Step 3]:[Provide instructions for step 3]
 - [Step 4]:[Provide instructions for step 4]
 <hr>
-<h1 align="center"><i>Usage:-</i></h1>
+<h1 align="center"><i>Usage👈:-</i></h1>
 [Step 1]: [Explain how to use the program - Step 1]<br>
 [Step 2]: [Explain how to use the program - Step 2]<br>
 [Step 3]: [Explain how to use the program - Step 3]<br>
