@@ -18,7 +18,9 @@
 - Welcome to the Cobra 🐍🐍🐍 Python Animation repository! This Python program is a fun and interactive animation of a Cobra snake 🐍.
 -  The program uses [mention any specific libraries or modules used for animation] to create a visually appealing and entertaining experience.
 <hr>
-Demo
+ 
+<h3 align="center"><iDemo:-</i></h3>
+
 [Insert GIF or link to a video that demonstrates the Cobra Python Animation in action.]
 
 <h1 align="center"><i>Features📜🔏:-</i></h1>
